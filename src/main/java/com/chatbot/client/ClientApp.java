@@ -9,7 +9,7 @@ public class ClientApp {
 
     private Assistant assistant;
 
-    private static String assistantId = "05d9ce45-0098-4bcb-83e5-da0388a669a2";
+    private static String assistantId = "519dcaeb-4afb-42f1-9752-d94fdcfbabc0";
 
     private String sessionId;
 
